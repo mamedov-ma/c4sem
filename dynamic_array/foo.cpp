@@ -1,5 +1,6 @@
-#include <iostream.h>
+#include <iostream>
 #include <conio.h>
+using namespace std;
 
 template<class T>
 DynamicArray<T>::DynamicArray(const DynamicArray& arr) {
