@@ -1,2 +1,2 @@
 # Задания по информатике 4 семестр
-- dynamic_array - реализация класса "Динамический массив" на c++
+- dynamic_array - realisation of class "dynamic array" on c++
